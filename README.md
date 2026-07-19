@@ -1,10 +1,3 @@
-Short:        Power Macintosh emulator for MorphOS
-Uploader:     Michal Zukowski
-Author:       Michal Zukowski, macemu and SheepShaver contributors
-Type:         misc/emu
-Version:      0.8
-Architecture: ppc-morphos
-Requires:     MorphOS, PowerPC with enough RAM, a compatible Mac OS ROM
 
 SheetEater 0.8
 ===============
